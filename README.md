@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kavitakamat
+- 👀 I’m interested in learning new things, languages
+- 🌱 I’m currently learning data mining, machine learning
